@@ -6,3 +6,4 @@ This is my first remote repo.
 +But now it *is* on GitHub as a remote repository!
 
 adding branch my new feature
+work test in Nano
